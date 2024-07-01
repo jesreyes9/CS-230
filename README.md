@@ -1,6 +1,11 @@
 # CS-230
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-The Gaming Room is a gaming studio 
+The Gaming Room is a gaming studio that is currently wanting to develop their Android game, Draw It or Lose It, into a website based game that can be used in a variety of operating platforms. The software requirements that The Gaming Room has proposed are the following:
+- The game must have the ability to have one team or more
+- Multiple players can be assigned to one team
+- The game and team names must be unique
+- Only one instance of the game can be present in memory
+The game must be developed in a cross-platform approach and based off the Android version of their current game.
 # What did you do particularly well in developing this documentation?
 Whenever developing this documentation for Draw It or Lose It, one of the things I did particular well was comparing the different operating platforms needed for the gaming development of the application for platforms other than Android.
 # What about the process of working through a design document did you find helpful when developing the code?
